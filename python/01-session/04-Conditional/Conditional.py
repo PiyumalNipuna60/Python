@@ -40,7 +40,7 @@ else :
 #   or operation
 
     if (name=="Nipuna" or age==17 ) : # or operation
-        print("Hy Piyumal")
+        print("Hy Nipuna")
         print("wrong")
     else:
         print("wrong")
