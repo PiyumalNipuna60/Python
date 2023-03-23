@@ -13,3 +13,4 @@ print("Name is : %s and His age is : %d" %(name,age))
 x=10.5254
 print("Prise is %f" % x)
 print("Prise is %.2f" %x)
+
