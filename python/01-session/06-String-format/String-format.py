@@ -24,8 +24,8 @@ print("My name is %s, age is %d, and also my height is %.1f"%(name,age,height)) 
 
 #------tuple and list-----------
 
-my_data1=["Nipuna",21,3.5]  # tuple(meke data venas karanna ba)
-my_data2=("Nipuna",21,3.5)  #list(data venas karanna puluvan)
+my_data2=("Nipuna",21,3.5)  # tuple(meke data venas karanna ba)
+my_data1=["Nipuna",21,3.5]  #list(data venas karanna puluvan)
 
 # print("My name is %s, age is %d, and also my height is %.1f"% my_data1)  #Error 
 print("My name is %s, age is %d, and also my height is %.1f"% my_data2)  
